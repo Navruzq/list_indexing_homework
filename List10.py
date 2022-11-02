@@ -6,4 +6,11 @@ def main(list_num):
     Returns:
         int: return answer
     """
-    return
+    a=list_num[0]
+    b=list_num[-1]
+    if a<b:
+
+       return b
+    else:
+        return a
+print(main([5,32,1,4,3]))
