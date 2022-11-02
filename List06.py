@@ -6,7 +6,7 @@ def main(list1):
     Returns:
         list: return answer
     """
-    s=0
+    
     i=0
     while i<5:
        if list1[i]==1:
